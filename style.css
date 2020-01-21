@@ -1,0 +1,36 @@
+body {
+ background-image: url('mzamo.jfif');
+}
+
+.navbar {
+    border: 1px solid black;
+}
+
+h2 {
+    color: bla;
+}
+
+.footer {
+    border: 3px solid orange;
+}
+
+p {
+ color: black;
+ font-weight: bolder;
+ font-size: large;
+}
+
+.main {
+    border: 2px solid orange;
+}
+
+a {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
